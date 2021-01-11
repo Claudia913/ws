@@ -1,0 +1,24 @@
+body  {
+  background-color: #E8EAE6;
+  }
+
+  hr {
+     border-style: none;
+     border-top-style: dotted;
+     border-color: grey;
+     border-width: 5px;
+     height: px;
+     width: 5%;
+}
+img {
+  height: 90px;
+    }
+
+  h1{
+    color: #66BFBF;
+    font-family: cursive;
+}
+h3{
+  color: #66BFBF;
+  font-family: cursive;
+}
